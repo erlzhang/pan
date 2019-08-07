@@ -42,6 +42,7 @@ defaults:
       layout: "post"
 theme_setting:
   nav_pages:
+    - index.md
     - about.md
 
 # Exclude from processing.
