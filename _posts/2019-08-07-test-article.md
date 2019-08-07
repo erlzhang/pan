@@ -9,4 +9,3 @@ ddddd
 
 ddddd
 
-![](/img/small_height_e6802ef9c2a6.png)

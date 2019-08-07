@@ -44,6 +44,9 @@ theme_setting:
   nav_pages:
     - index.md
     - about.md
+    -
+      title: "管理"
+      url: "/admin/"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
