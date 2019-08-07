@@ -1,18 +1,18 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 ---
+## 关于我
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+一直嚷嚷着要控制体重要减肥，管住了嘴也迈开了腿，体重却一言难尽，一度怀疑体重秤出了问题。
+ 
+大学时喜欢写写写，工作四五年，困于生活琐事，也“搁笔”了四五年。希望能逐步拾起当年热衷码字的好习惯。
+ 
+## 关于博客
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[@叶夕青夕](https://erl.im) 说她的博客要停更一段时间，作为她的忠实读者，我对此表示出不满。她说要不你来写，写写当准妈妈的感受。随即她便着手帮我搭建博客。
+ 
+作为一个牢骚满腹的胖纸，我是不会把博客搞成晒娃现场的（当然现在还没有来晒），因为我想吐槽的东西多了去了！比如我们楼道那只猫！嗯，我的第一篇博客就要吐槽那只猫！
 
 
-[jekyll-organization]: https://github.com/jekyll
