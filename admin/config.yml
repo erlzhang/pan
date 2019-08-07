@@ -7,16 +7,18 @@ collections:
     label: "文章"
     folder: "_posts"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{name}}"
     fields:
       - {label: "标题", name: "title", widget: "string"}
+      - {label: "英文标题", name: "name", widget: "string"}
       - {label: "发布时间", name: "date", widget: "datetime"}
       - {label: "内容", name: "body", widget: "markdown"}
   - name: "page"
     label: "页面"
     folder: "/"
     create: true
-    slug: "{{slug}}"
+    slug: "{{name}}"
     fields:
       - {label: "标题", name: "title", widget: "string"}
       - {label: "内容", name: "body", widget: "markdown"}
+      - {label: "英文标题", name: "name", widget: "string"}
