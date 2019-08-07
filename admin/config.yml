@@ -14,7 +14,7 @@ collections:
       - {label: "内容", name: "body", widget: "markdown"}
   - name: "page"
     label: "页面"
-    folder: ""
+    folder: "/"
     create: true
     slug: "{{slug}}"
     fields:
